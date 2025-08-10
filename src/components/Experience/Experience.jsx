@@ -40,7 +40,7 @@ const Experience = () => {
                         <RiNetflixFill color='#E50914' size={50} />
                         <span className='text-white'>
                             <h2 className='leading-tight'>UTLITY Supervisor, Nipl</h2>
-                            <p className='text-sm leading-tight font-thin'>Jun 2022 - Jul 2023</p>
+                            <p className='text-sm leading-tight font-thin'>Jul 2023 - Jul 2024</p>
                             <ul className='text-sm p-2'>
                                 <li>- My role was to manage a team of 12 colleagues to manage uptime for network devices.</li>
                                 <li>- I got best employee award -2024 for improving the uptime of our network devices from 99.65% to 99.90%.</li>
