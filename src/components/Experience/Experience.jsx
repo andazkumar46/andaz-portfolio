@@ -26,7 +26,7 @@ const Experience = () => {
                 </div>
                 <div>
                     <div className='flex gap-10 bg-slate-950 bg-opacity-45 mt-4 rounded-lg p-4 items-center'>
-                        <FaGoogle color='#4285F4' size={50} />
+                        <RiNetflixFill color='#E50914' size={50} />
                         <span className='text-white'>
                             <h2 className='leading-tight'>ISP Enginner, Nipl</h2>
                             <p className='text-sm leading-tight font-thin'>Jun 2022 - Jul 2023</p>
