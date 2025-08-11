@@ -1,7 +1,7 @@
 import React from 'react';
 import avatarImg from "../../assets/profile.png";
 import TextChanger from '../TextChanger';
-import cvFile from "../../assets/Andaz Resume.pdf"; // Put your CV file in assets folder
+import cvFile from "../../assets/Andaz_Kumar.pdf"; // Put your CV file in assets folder
 
 const Home = () => {
   return (
